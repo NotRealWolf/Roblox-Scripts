@@ -29,7 +29,7 @@ espselection:NewButton("Sheriff/Murderer ESP", "Shows Sheriff/Murderer", functio
 end)
 
 creditss:NewButton("Programing: NotRealWolf#9999", "Made everything (not ui lib, that person is unknown)", function()
-    setclipboard("Armed#0001")
+    setclipboard("NotRealWolf#9999")
 end)
 creditss:NewButton("Copy discord invite", "Copies discord invite", function()
     setclipboard("https://discord.gg/X9E4B3vZDa")
