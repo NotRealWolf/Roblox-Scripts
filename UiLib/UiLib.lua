@@ -239,7 +239,7 @@ local function KeepFirstTabOpen()
 end
 
 function Library:ToggleUI()
-    Main.Visible = not Main.Visible
+    print(Main:GetFullName())
 end
 
 coroutine.wrap(function()
