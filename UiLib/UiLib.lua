@@ -239,7 +239,7 @@ local function KeepFirstTabOpen()
 end
 
 function Library:ToggleUI()
-    print(Main:GetFullName())
+    UILibrary.Enabled = not UILibrary.Enabled
 end
 
 coroutine.wrap(function()
