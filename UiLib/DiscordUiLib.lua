@@ -1118,7 +1118,7 @@ function DiscordLib:Window(text)
 	DiscordInfo.Position = UDim2.new(0.304721028, 0, 0.821333349, 0)
 	DiscordInfo.Size = UDim2.new(0, 133, 0, 44)
 	DiscordInfo.Font = Enum.Font.Gotham
-	DiscordInfo.Text = "Stable 69.42.0 (6969)  Host 127.0. 0.1                Roblox Lua Engine    "
+	DiscordInfo.Text = "Stable 2.1.1 (00001)  V 0.0.0.2                Roblox Lua Engine    "
 	DiscordInfo.TextColor3 = Color3.fromRGB(101, 108, 116)
 	DiscordInfo.TextSize = 13.000
 	DiscordInfo.TextWrapped = true
